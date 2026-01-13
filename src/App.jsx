@@ -1,14 +1,10 @@
-import { useState } from 'react'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
-
+  console.log("Started")
   return (
     <>
-    
       <h1>priyanka + Vivek</h1>
-     
     </>
   )
 }
